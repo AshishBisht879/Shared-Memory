@@ -1,0 +1,4 @@
+1. Create share memory and semaphores using create_share_memory.c
+2. write to share memory by running write_share_memory.c
+3. Read from share memory by running read_share_memory.c
+4. Delete share memory and semaphores by running delete_shared_memory.c	
